@@ -1,0 +1,13 @@
+digraph "order-messaging" {
+  node [shape="box",style="rounded",fontname="Helvetica",fontsize="14"]
+  edge [fontsize="10",fontname="Helvetica"]
+
+  // Node Definitions:
+  "com.food.ordering.system:order-application-service:jar"[label=<order-application-service>]
+  "com.food.ordering.system:order-domain-core:jar"[label=<order-domain-core>]
+  "com.food.ordering.system:order-messaging:jar"[label=<order-messaging>]
+
+  // Edge Definitions:
+  "com.food.ordering.system:order-application-service:jar" -> "com.food.ordering.system:order-domain-core:jar"
+  "com.food.ordering.system:order-messaging:jar" -> "com.food.ordering.system:order-application-service:jar"
+}

@@ -1,0 +1,9 @@
+digraph "order-system" {
+  node [shape="box",style="rounded",fontname="Helvetica",fontsize="14"]
+  edge [fontsize="10",fontname="Helvetica"]
+
+  // Node Definitions:
+  "com.food.ordering.system:order-system:pom"[label=<order-system>]
+
+  // Edge Definitions:
+}

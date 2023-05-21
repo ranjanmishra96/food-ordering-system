@@ -1,0 +1,9 @@
+digraph "order-domain-core" {
+  node [shape="box",style="rounded",fontname="Helvetica",fontsize="14"]
+  edge [fontsize="10",fontname="Helvetica"]
+
+  // Node Definitions:
+  "com.food.ordering.system:order-domain-core:jar"[label=<order-domain-core>]
+
+  // Edge Definitions:
+}
