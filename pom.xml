@@ -6,6 +6,7 @@
     <modules>
         <module>order-system</module>
         <module>common</module>
+        <module>infrastructure</module>
     </modules>
 
     <parent>
