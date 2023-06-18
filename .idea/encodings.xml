@@ -5,7 +5,14 @@
     <file url="file://$PROJECT_DIR$/common/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/kafka/kafa-producer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/kafka/kafka-config-data/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/kafka/kafka-consumer/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/kafka/kafka-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/kafka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/kafka/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/infrastructure/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/infrastructure/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-service/order-service/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-system/order-application/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/order-system/order-container/src/main/java" charset="UTF-8" />

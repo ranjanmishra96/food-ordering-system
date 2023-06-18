@@ -8,11 +8,14 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="order-messaging" />
+        <module name="kafka-model" />
         <module name="order-application-service" />
-        <module name="infrastructure" />
+        <module name="kafka-consumer" />
         <module name="common-domain" />
+        <module name="kafa-producer" />
         <module name="order-application" />
         <module name="order-dataccess" />
+        <module name="kafka-config-data" />
         <module name="order-domain-core" />
         <module name="order-container" />
       </profile>
@@ -26,7 +29,12 @@
       <module name="common" options="" />
       <module name="common-domain" options="-parameters" />
       <module name="food-ordering-system" options="" />
-      <module name="infrastructure" options="-parameters" />
+      <module name="infrastructure" options="" />
+      <module name="kafa-producer" options="-parameters" />
+      <module name="kafka" options="" />
+      <module name="kafka-config-data" options="-parameters" />
+      <module name="kafka-consumer" options="-parameters" />
+      <module name="kafka-model" options="-parameters" />
       <module name="order-application" options="-parameters" />
       <module name="order-application-service" options="-parameters" />
       <module name="order-container" options="-parameters" />

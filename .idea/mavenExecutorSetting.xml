@@ -1,6 +1,104 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="mavenExecutorSetting">
+    <option name="defaultSettings">
+      <ExecutionSettings>
+        <option name="goals">
+          <list>
+            <option value="mvn" />
+            <option value="install" />
+          </list>
+        </option>
+        <option name="projectsToBuild">
+          <list>
+            <ProjectToBuild>
+              <option name="displayName" value="food-ordering-system" />
+              <option name="mavenArtifact">
+                <MavenArtifact>
+                  <option name="groupId" value="com.food.ordering.system" />
+                  <option name="artifactId" value="food-ordering-system" />
+                  <option name="version" value="1.0-SNAPSHOT" />
+                </MavenArtifact>
+              </option>
+              <option name="projectDictionary" value="$PROJECT_DIR$" />
+              <option name="selectedModules">
+                <list>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="infrastructure" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka-consumer" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka-config-data" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka-model" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafa-producer" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="kafka" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="infrastructure" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                  <MavenArtifact>
+                    <option name="groupId" value="com.food.ordering.system" />
+                    <option name="artifactId" value="food-ordering-system" />
+                    <option name="version" value="1.0-SNAPSHOT" />
+                  </MavenArtifact>
+                </list>
+              </option>
+            </ProjectToBuild>
+          </list>
+        </option>
+      </ExecutionSettings>
+    </option>
+    <option name="goalsHistory">
+      <History>
+        <option name="items">
+          <list>
+            <option value="mvn install" />
+          </list>
+        </option>
+      </History>
+    </option>
     <option name="visibleSettings">
       <set>
         <option value="PROFILES" />
